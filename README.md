@@ -35,6 +35,7 @@
    php -S localhost:8000
    ```
 3. Ανοίξτε τον browser στο `http://localhost:8000/index.php`.
+4. Διαφορετικά μπορείτε με xamp, wamp, laragon
 
 ## Κριτήρια Αξιολόγησης
 - Φόρτωση και εμφάνιση των tasks από το `tasks.json`.
